@@ -1,12 +1,37 @@
-# React + Vite
+# 📝 React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and stylish **React Todo App** deployed on **Netlify**. This is a frontend-only application that allows users to add and remove tasks.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 **Live Demo**
 
-## Expanding the ESLint configuration
+🔗 [View the App](https://anutodo.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💻 **Tech Stack**
+
+- **React.js** – Frontend framework
+- **CSS3** – For styling and responsiveness
+- **Netlify** – Deployed for public access
+
+---
+
+## 🎯 **Features**
+
+✅ Add and remove todos  
+✅ Smooth transitions and hover effects  
+✅ Stylish and modern dark-themed UI  
+✅ Responsive design for all screen sizes  
+✅ Deployed using Netlify
+
+---
+
+## 🛠️ **Installation & Usage**
+
+1. **Clone the Repository**
+
+```bash
+git clone <https://github.com/anurag-sharma17/Todo-list-app.git>
+```
