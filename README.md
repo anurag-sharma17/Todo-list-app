@@ -25,7 +25,6 @@ A simple and stylish **React Todo App** deployed on **Netlify**. This is a front
 ✅ Stylish and modern dark-themed UI  
 ✅ Responsive design for all screen sizes  
 ✅ Deployed using Netlify
-sad
 ---
 
 ## 🛠️ **Installation & Usage**
